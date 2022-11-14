@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombreDelJugador\ numeroDeGoles\ siEsTitular
+comment1.target=Jugador(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getNombreDelJugador()
+comment3.params=
+comment3.target=int\ getnumeroGoles()
+comment4.params=
+comment4.target=boolean\ siEsTitular()
+comment5.params=nombreDelJugador
+comment5.target=void\ setNombreJugador(java.lang.String)
+comment6.params=numeroDeGoles
+comment6.target=void\ setNumeroGoles(int)
+comment7.params=siEsTitular
+comment7.target=void\ setEsTitular(boolean)
+comment8.params=
+comment8.target=void\ imprimirEstadisticas()
+comment9.params=
+comment9.target=java.lang.String\ devolverEstadisticas()
+numComments=10
